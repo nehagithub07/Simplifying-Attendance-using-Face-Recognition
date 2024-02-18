@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 def sendingEmail(table): 
     sender_email = "teamvisions22@gmail.com"
     receiver_email = "nehasaniya465@gmail.com"
-    password = "nvklhmmackzcaylw"
+    password = ""
 
 
     msg = MIMEMultipart("alternative") 
